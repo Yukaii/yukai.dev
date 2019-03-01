@@ -14,7 +14,7 @@ const IndexPage = () => (
     <h1>Hi, I'm Yukai, <br></br> a <em>Software Developer</em>.</h1>
     <div className="container" style={{ margin: '2rem 0' }}>
       <p>You can find me on <a href="https://github.com/Yukaii">GitHub</a>, <a href="https://twitter.com/yukaii_h">Twitter</a>, or <a href="https://www.facebook.com/yukaihuangtw">Facebook</a>.</p>
-      <p>Read my posts on my blog <a href="https://yukaii.tw">Daily Oops</a>.</p>
+      <p>Read my blog on <a href="https://yukaii.tw">Daily Oops</a>.</p>
     </div>
     <small>This site is under construction.</small>
   </Layout>
